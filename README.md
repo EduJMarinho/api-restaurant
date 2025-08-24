@@ -42,7 +42,7 @@ Para testar as rotas, você pode importar o arquivo*Insomnia_2025-08-24.yaml* no
 
 ## ▶️ Como rodar o projeto
 
-bash
+
 # Instalar dependências
 npm install
 
