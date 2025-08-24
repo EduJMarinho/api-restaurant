@@ -42,7 +42,7 @@ Para testar as rotas, você pode importar o arquivo*Insomnia_2025-08-24.yaml* no
 
 ## ▶️ Como rodar o projeto
 
-```bash
+bash
 # Instalar dependências
 npm install
 
@@ -56,7 +56,7 @@ npm run dev
 ---
 
 
-📚 Aprendizados
+## 📚 Aprendizados
 Este projeto me ajudou a consolidar conceitos como:
 
 Organização de rotas e controllers
@@ -73,13 +73,13 @@ Testes práticos com Insomnia
 ---
 
 
-📄 Licença
+## 📄 Licença
 Este projeto está sob licença MIT.
 
 
 ---
 
-
+##
 🧠 Analisar 📚 Aprender ❌ Errar  
    🔁 Refatorar  🛠️ Construir  
           → → → → → → →  
